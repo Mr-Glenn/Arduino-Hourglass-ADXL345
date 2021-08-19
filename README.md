@@ -9,6 +9,6 @@ All files needed to build this project in the Arduino IDE have been placed in on
 
 The "main.ino" file includes a writeup of what connections to make and what libraries are required.
 
-(Pointers to what code has been altered are also included.)
+(Pointers to what code has been altered are also included)
 
 [1] https://github.com/fbrnc/Arduino_Hourglass
