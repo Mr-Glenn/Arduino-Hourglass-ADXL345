@@ -1,13 +1,25 @@
-# Arduino-Hourglass-ADXL345
-Arduino MAXX7219 hourglass implemented with ADXL 345 accelerometer
+LedControl
+==========
+LedControl is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
+The code also works with the [Teensy (3.1)](https://www.pjrc.com/teensy/)
 
-This project is a port of Arduino hourglass by Fabrizio Branca [1].
+Documentation
+-------------
+Documentation for the library is on the [Github Project Pages](http://wayoda.github.io/LedControl/)
 
-The code has been modified to allow the use of the ADXL345 acccelerometer.
+Download
+--------
+The lastest binary version of the Library is always available from the 
+[LedControl Release Page](https://github.com/wayoda/LedControl/releases) 
 
-All files needed to build this project in the Arduino IDE have been placed in one folder.
 
-The main file has a writeup of what connections to make and what libraries are required as well as notes on what changes have been made.
+Install
+-------
+The library can be installed using the [standard Arduino library install procedure](http://arduino.cc/en/Guide/Libraries#.UwxndHX5PtY)  
 
 
-[1] https://github.com/fbrnc/Arduino_Hourglass
+
+
+
+
+
